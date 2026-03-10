@@ -1,0 +1,4 @@
+version=1.4
+date=2026-03-09
+bin=https://github.com/jaydencone-sketch/jc-controller-tester-firmware/releases/latest/download/jc-controller-tester.bin
+notes=Initial GitHub OTA system
